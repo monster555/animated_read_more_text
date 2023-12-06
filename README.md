@@ -6,6 +6,10 @@ A Flutter package that provides a customizable widget for displaying text with a
 
 The **AnimatedReadMoreText** widget is a Flutter package that provides a user-friendly and visually appealing way to present lengthy text content. It dynamically adapts text length based on a predefined maximum line count, ensuring optimal readability on various screen sizes. The widget's key feature is its ability to seamlessly expand or collapse text based on user interaction. This functionality enhances readability by allowing users to focus on specific sections of text without being overwhelmed by lengthy passages. Additionally, the widget's subtle yet impactful animations add a touch of elegance to the user interface, further enhancing the overall reading experience.
 
+
+https://github.com/monster555/animated_read_more_text/assets/32662133/273d6a58-efc7-4079-b52c-0d0c86090e0e
+
+
 ## Features
 
 - Lightweight and easy to use
