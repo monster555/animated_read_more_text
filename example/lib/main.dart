@@ -26,7 +26,7 @@ class MainApp extends StatelessWidget {
 
               // Example 2: Long text with custom styles, custom "Read more" and "Read less" buttons text, and no expand on text tap
               AnimatedReadMoreText(
-                'This is a long text that exceeds the maximum number of lines. It will be truncated and an "Expand" button will be displayed, overrising the default "Read more". The text has a custom style with a font size of 16.0 and a color of blue. The "Read more" button also has a custom style with a font size of 14.0 and a color of red.',
+                'This text exceeds the maximum number of lines. The text will be truncated, and an "Expand" button will appear, replacing the default "Read more" button. The text is styled with a font size of 16.0 and a blue color. The "Expand" button is also styled with a font size of 14.0 and a red color.',
                 maxLines: 3,
                 readMoreText: 'Expand',
                 readLessText: 'Collapse',
