@@ -1,7 +1,8 @@
 name: animated_read_more_text
 description: "Animated Flutter package for 'Read more/Read less' functionality, enhancing text handling and user interactions."
+repository: https://github.com/monster555/animated_read_more_text
 version: 0.0.1
-homepage:
+homepage: https://github.com/monster555/animated_read_more_text
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
