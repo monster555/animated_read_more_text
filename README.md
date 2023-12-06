@@ -26,7 +26,7 @@ To use this package, include it in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  animated_read_more_text: ^0.0.1
+  animated_read_more_text: ^0.0.6
 ```
 Import the package in your Dart file:
 
@@ -56,7 +56,7 @@ AnimatedReadMoreText(
 )
 ```
 
-## Example
+Set custom animation curve and duration
 ```dart
 AnimatedReadMoreText(
   yourLongText,
